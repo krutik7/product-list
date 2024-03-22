@@ -1,0 +1,39 @@
+body {
+  background-color: #ebecf2 !important;
+}
+
+.MuiButton-root {
+  text-transform: none !important;
+}
+
+.MuiDrawer-root .MuiPaper-root {
+  background: rgb(2, 0, 36);
+  background: linear-gradient(
+    0deg,
+    rgba(2, 0, 36, 1) 0%,
+    rgba(103, 112, 111, 1) 75%
+  );
+}
+.tabButton {
+  background-color: white !important;
+  border: 1px solid #ac8454 !important;
+  color: black !important;
+}
+
+.MuiDataGrid-root {
+  background-color: white;
+}
+
+.MuiDataGrid-columnHeaders {
+  background-color: #d4c1a3;
+}
+
+.MuiDataGrid-columnHeaderTitle {
+  font-weight: 600 !important;
+}
+
+.MuiDataGrid-root .MuiButtonBase-root {
+  color: black !important;
+  font-size: 10px;
+  font-weight: 600;
+}
